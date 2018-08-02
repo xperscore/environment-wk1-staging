@@ -10,3 +10,6 @@ dependencies:
 - name: wkpython
   repository: http://jenkins-x-chartmuseum:8080
   version: 4.1.5
+- name: xperweb-jobs
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 4.0.161
